@@ -4,7 +4,7 @@ const questions = [
         questionnumber : 1,
         answers: [
             { text: "1", correct: false},
-            { text: "2", correct: t},
+            { text: "2", correct: true},
             { text: "3", correct: false},  //true들어간게 정답임
             { text: "4", correct: false},
             { text: "5", correct: false},
